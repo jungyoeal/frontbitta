@@ -25,7 +25,7 @@ function Jobpost() {
     return (
         <div>
             <NavBar></NavBar>
-            <div className="post-container">
+            <div className="post-container">z
                 <div className="inner">
                     <div className="contents">
                         <div className="dummy-height"></div>
