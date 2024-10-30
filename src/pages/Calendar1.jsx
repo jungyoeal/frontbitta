@@ -39,7 +39,6 @@ function Calendar1() {
     return (
         <div>
             <NavBar />
-            <div className="h-10"></div>
             <div style={{display: 'flex', justifyContent: 'center', width: '100vw'}}>
                 <div style={{height: '70vh'}}>
                     <Calendar
